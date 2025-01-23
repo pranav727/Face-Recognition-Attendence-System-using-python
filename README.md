@@ -34,17 +34,16 @@ A Python-based real-time attendance system that uses face recognition to identif
    git clone https://github.com/pranav727/Face-Recognition-Attendence-System-using-python.git
 
 2.Navigate to the project directory:
-     ```bash
      
-    cd Face-Recognition-Attendance-System 
+       cd Face-Recognition-Attendance-System 
     
 3.Install the required dependencies:
-       ```bash
+       
 
        pip install -r requirements.txt
 
 4.Run the project:
-       ```bash
+       
 
        python main.py
 
